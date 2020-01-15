@@ -2,7 +2,7 @@
 
 namespace LuckySpin
 {
-    public interface LuckySpin
+    public interface ILuckySpin
     {
         string Output(int luck);
     }
